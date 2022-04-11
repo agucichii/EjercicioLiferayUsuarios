@@ -1,0 +1,1 @@
+create index IX_81963F94 on lportal_Registro (uuid_[$COLUMN_LENGTH:75$]);
